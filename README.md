@@ -26,4 +26,4 @@ complex setups.
   - nodaemon is enabled (duh)                                             
   - log, pid paths configured sanely: /var/log and /run/supervisord.pid   
 
-## Copyright 2014 Shaun Martin & PSD Inc.
+#### Copyright 2014 Shaun Martin & PSD Inc.
